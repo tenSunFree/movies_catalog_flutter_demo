@@ -15,8 +15,8 @@ https://play.google.com/store/apps/details?id=com.tvbs.news.food.topnews.bestfoo
 預覽
 --------
 <p align="left">
-  <img src="https://i.imgur.com/znp4sjf.png" width="230"/>
-  <img src="https://i.imgur.com/sx8B56l.png" width="230"/>
+  <img src="https://i.imgur.com/G6tUmPP.png" width="230"/>
+  <img src="https://i.imgur.com/GBMbfVv.png" width="230"/>
 </p> 
 
 備註
